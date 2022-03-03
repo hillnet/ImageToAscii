@@ -1,2 +1,2 @@
 # ImageToAscii
-![alt text](image_ascii_demo.png?raw=true)
+![alt text](image_to_ascii_demo.png?raw=true)
